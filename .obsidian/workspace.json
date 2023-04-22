@@ -11,8 +11,12 @@
             "id": "5c945c29f8ed34a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Variables.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Variables.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Variables.md"
+                "file": "Test.md"
               }
             }
           },
@@ -152,6 +156,7 @@
   },
   "active": "5c945c29f8ed34a8",
   "lastOpenFiles": [
+    "Test.md",
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and borrowing.md",
     "Rust/Basics/Variables.md",
