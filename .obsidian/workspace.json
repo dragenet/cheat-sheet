@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Ownership and Borrowing.md",
+                "file": "Rust/Basics/Packages and Crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Ownership and Borrowing.md",
+                "file": "Rust/Basics/Packages and Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Ownership and Borrowing.md",
+                "file": "Rust/Basics/Packages and Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Ownership and Borrowing.md"
+                "file": "Rust/Basics/Packages and Crates.md"
               }
             }
           },
@@ -156,10 +156,10 @@
   },
   "active": "6e6f82af975e69b2",
   "lastOpenFiles": [
+    "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Data Types.md",
     "Rust/Basics/Functions.md",
     "Rust/Basics/Loops.md",
-    "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Conditionals.md",
     "Test.md",
     "Rust/Tools.md",
