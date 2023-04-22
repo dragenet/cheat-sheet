@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b176c516a05cf21",
+        "id": "d7b21d28f3e8e903",
         "type": "tabs",
         "children": [
           {
-            "id": "36c2e55164566fe6",
+            "id": "5c945c29f8ed34a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36c2e55164566fe6",
+  "active": "5c945c29f8ed34a8",
   "lastOpenFiles": [
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and borrowing.md",
