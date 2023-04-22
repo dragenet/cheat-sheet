@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2aaf7a42d75f3c59",
+        "id": "b47c0a45837398df",
         "type": "tabs",
         "children": [
           {
-            "id": "124ed69e47c347db",
+            "id": "6e6f82af975e69b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Rust/Basics/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Rust/Basics/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Rust/Basics/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Rust/Basics/Functions.md"
               }
             }
           },
@@ -154,20 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "124ed69e47c347db",
+  "active": "6e6f82af975e69b2",
   "lastOpenFiles": [
-    "Rust/Tools.md",
+    "Rust/Basics/Ownership and Borrowing.md",
+    "Rust/Basics/Data Types.md",
+    "Rust/Basics/Conditionals.md",
     "Test.md",
+    "Rust/Tools.md",
     "Rust/Basics/Packages and Crates.md",
-    "Rust/Basics/Ownership and borrowing.md",
     "Rust/Basics/Variables.md",
     "Rust/Basics/Enums and patterns/Enum.md",
     "Rust/Basics/Enums and patterns/`match` control flow construct.md",
     "Rust/Basics/Enums and patterns/`if let` control flow.md",
     "Rust/Basics/Enums and patterns",
     "Rust/Basics/Structs.md",
-    "Rust/Basics/Data Types.md",
-    "Rust/Basics/Conditionals.md",
     "Rust/Basics/Loops.md",
     "Rust/Basics/Functions.md",
     "Rust/Untitled.canvas",
