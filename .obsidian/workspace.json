@@ -154,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fb7f29e579c691b",
+  "active": "5c945c29f8ed34a8",
   "lastOpenFiles": [
+    "Rust/Tools.md",
     "Test.md",
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and borrowing.md",
@@ -169,7 +170,6 @@
     "Rust/Basics/Conditionals.md",
     "Rust/Basics/Loops.md",
     "Rust/Basics/Functions.md",
-    "Rust/Tools.md",
     "Rust/Untitled.canvas",
     "Rust/Basics",
     "Rust"
