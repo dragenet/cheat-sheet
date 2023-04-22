@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "c27e9e2faebac1dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b176c516a05cf21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c2e55164566fe6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8990f01ba7f3a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "acef792abf61dfc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbd1b44301de66d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c61124b62bc67d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fab35abbaef9342",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63c382774a51810e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77c4b19923cc8e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c480b29145580aed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/Basics/Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a64680f96c62becc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/Basics/Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a92e740e60e67216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "382a798b19a494c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust/Basics/Variables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36c2e55164566fe6",
+  "lastOpenFiles": [
+    "Rust/Basics/Packages and Crates.md",
+    "Rust/Basics/Ownership and borrowing.md",
+    "Rust/Basics/Variables.md",
+    "Rust/Basics/Enums and patterns/Enum.md",
+    "Rust/Basics/Enums and patterns/`match` control flow construct.md",
+    "Rust/Basics/Enums and patterns/`if let` control flow.md",
+    "Rust/Basics/Enums and patterns",
+    "Rust/Basics/Structs.md",
+    "Rust/Basics/Data Types.md",
+    "Rust/Basics/Conditionals.md",
+    "Rust/Basics/Loops.md",
+    "Rust/Basics/Functions.md",
+    "Rust/Tools.md",
+    "Rust/Untitled.canvas",
+    "Rust/Basics",
+    "Rust"
+  ]
+}
