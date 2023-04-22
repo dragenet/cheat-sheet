@@ -1,9 +1,9 @@
 {
-  "commitMessage": "Updated {{numFiles}} from {{hostname}} - {{date}}",
+  "commitMessage": "Updated {{numFiles}} files from {{hostname}} - {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
-  "autoPullInterval": 0,
+  "autoPullInterval": 30,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "Auto-updated {{numFiles}} from {{hostname}} - {{date}}"
+  "autoCommitMessage": "Auto-updated {{numFiles}} files from {{hostname}} - {{date}}"
 }
