@@ -124,13 +124,21 @@
                 "file": "Rust/Basics/Variables.md"
               }
             }
+          },
+          {
+            "id": "9fb7f29e579c691b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
