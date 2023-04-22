@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Functions.md",
+                "file": "Rust/Basics/Ownership and Borrowing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Functions.md",
+                "file": "Rust/Basics/Ownership and Borrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Functions.md",
+                "file": "Rust/Basics/Ownership and Borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Functions.md"
+                "file": "Rust/Basics/Ownership and Borrowing.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "6e6f82af975e69b2",
   "lastOpenFiles": [
-    "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Data Types.md",
+    "Rust/Basics/Functions.md",
+    "Rust/Basics/Loops.md",
+    "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Conditionals.md",
     "Test.md",
     "Rust/Tools.md",
@@ -168,8 +170,6 @@
     "Rust/Basics/Enums and patterns/`if let` control flow.md",
     "Rust/Basics/Enums and patterns",
     "Rust/Basics/Structs.md",
-    "Rust/Basics/Loops.md",
-    "Rust/Basics/Functions.md",
     "Rust/Untitled.canvas",
     "Rust/Basics",
     "Rust"

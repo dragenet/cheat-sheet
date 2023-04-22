@@ -1,3 +1,5 @@
+[Docs](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+
 ## Ownership
 
 Ownership is Rust's unique way of managing memory. In Rust, every value has a variable that's called its **owner**.
