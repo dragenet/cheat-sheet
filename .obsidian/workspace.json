@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d2fb2344afde6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basics/Collections/HashMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Variables.md",
+                "file": "Rust/Basics/Collections/HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Variables.md",
+                "file": "Rust/Basics/Collections/HashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Variables.md"
+                "file": "Rust/Basics/Collections/HashMap.md"
               }
             }
           },
@@ -204,8 +216,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc78aff0adff7bde",
+  "active": "5d2fb2344afde6da",
   "lastOpenFiles": [
+    "Rust/Basics/Variables.md",
+    "Rust/Basics/Collections/HashMap.md",
     "Rust/Tools.md",
     "Rust/Basics/Collections/Vec.md",
     "Rust/Basics/Collections/String.md",
@@ -223,7 +237,6 @@
     "Rust/Basics/Loops.md",
     "Rust/Basics/Conditionals.md",
     "Test.md",
-    "Rust/Basics/Variables.md",
     "Rust/Basics/Enums and patterns/Enum.md",
     "Rust/Basics/Enums and patterns/`match` control flow construct.md",
     "Rust/Basics/Enums and patterns/`if let` control flow.md",
