@@ -162,11 +162,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f21e3e0b34e3fff5",
+  "active": "a92e740e60e67216",
   "lastOpenFiles": [
     "Untitled.md",
     "Rust/Basics/Lifetimes.md",
