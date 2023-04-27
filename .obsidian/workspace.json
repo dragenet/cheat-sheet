@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f041a54abb9afff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basics/Generics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "897f6586193047cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basics/Traits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Closures.md",
+                "file": "Rust/Basics/Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Closures.md",
+                "file": "Rust/Basics/Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Closures.md"
+                "file": "Rust/Basics/Traits.md"
               }
             }
           },
@@ -167,10 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ee553fbdde26662",
+  "active": "897f6586193047cc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Rust/Basics/Generics.md",
+    "Rust/Basics/Traits.md",
     "Rust/Basics/Closures.md",
+    "Untitled.md",
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Data Types.md",
