@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc3ee5c30c8b6c5",
+        "id": "7e99aa01306c10f5",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee553fbdde26662",
+            "id": "39248d7dd0c058bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Closures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f041a54abb9afff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Generics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21e3e0b34e3fff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Lifetimes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0eed40199a480fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Collections/String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc78aff0adff7bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d2fb2344afde6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Collections/HashMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bc171e0f47bfdf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Traits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2487df53e7418337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Errors/Error Handling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca49039b80512304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Basics/Errors/Custom Errors.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "format!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Errors/Custom Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Errors/Custom Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rust/Basics/Errors/Custom Errors.md"
-              }
+              "state": {}
             }
           },
           {
@@ -252,30 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca49039b80512304",
+  "active": "39248d7dd0c058bc",
   "lastOpenFiles": [
+    "Rust/Basics/Closures.md",
+    "Rust/Basics/Generics.md",
+    "Rust/Basics/Lifetimes.md",
+    "Rust/Basics/Collections/String.md",
+    "Rust/Basics/Variables.md",
+    "Rust/Basics/Collections/HashMap.md",
+    "Rust/Basics/Traits.md",
+    "Rust/Basics/`format!` placeholders.md",
     "Rust/Basics/Errors/Error Handling.md",
+    "Rust/Basics/Data Types.md",
+    "Rust/Basics/Conditionals.md",
     "Rust/Basics/Errors/Custom Errors.md",
     "Rust/Basics/Errors",
-    "Rust/Basics/Traits.md",
-    "Rust/Basics/Collections/HashMap.md",
-    "Rust/Basics/Variables.md",
     "Rust/Basics/Testing.md",
     "Rust/Tools.md",
     "Rust/Basics/Collections/Vec.md",
-    "Rust/Basics/Collections/String.md",
-    "Rust/Basics/Lifetimes.md",
     "Rust/Basics/Collections",
     "Untitled.md",
     "Untitled 1.md",
-    "Rust/Basics/Generics.md",
-    "Rust/Basics/Closures.md",
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and Borrowing.md",
-    "Rust/Basics/Data Types.md",
     "Rust/Basics/Functions.md",
     "Rust/Basics/Loops.md",
-    "Rust/Basics/Conditionals.md",
     "Test.md",
     "Rust/Basics/Enums and patterns/Enum.md",
     "Rust/Basics/Enums and patterns/`match` control flow construct.md",

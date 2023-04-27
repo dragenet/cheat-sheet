@@ -72,11 +72,3 @@ assert_eq!(slice, &[2, 3]);
 
 ```
 
-# Stack
-
-Stack-only data implements the `Copy` trait (read more in [docs](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#stack-only-data-copy))):  
--   All the integer types, such as `u32`.
--   The Boolean type, `bool`, with values `true` and `false`.
--   All the floating-point types, such as `f64`.
--   The character type, `char`.
--   Tuples, if they only contain types that also implement `Copy`. For example, `(i32, i32)` implements `Copy`, but `(i32, String)` does not.
