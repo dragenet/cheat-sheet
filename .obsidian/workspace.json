@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff3d4498b619a054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9ee553fbdde26662",
             "type": "leaf",
             "state": {
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "897f6586193047cc",
+            "id": "f21e3e0b34e3fff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Traits.md",
+                "file": "Rust/Basics/Lifetimes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Traits.md",
+                "file": "Rust/Basics/Lifetimes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Traits.md",
+                "file": "Rust/Basics/Lifetimes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Traits.md"
+                "file": "Rust/Basics/Lifetimes.md"
               }
             }
           },
@@ -174,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,12 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "897f6586193047cc",
+  "active": "f21e3e0b34e3fff5",
   "lastOpenFiles": [
-    "Rust/Basics/Generics.md",
-    "Rust/Basics/Traits.md",
-    "Rust/Basics/Closures.md",
     "Untitled.md",
+    "Rust/Basics/Lifetimes.md",
+    "Untitled 1.md",
+    "Rust/Basics/Traits.md",
+    "Rust/Basics/Generics.md",
+    "Rust/Basics/Closures.md",
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Data Types.md",

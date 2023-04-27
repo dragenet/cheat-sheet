@@ -82,6 +82,7 @@ let value = my_struct.my_function();
 ```
 
 Generic traits can have associated types, which are types that are defined within the trait but are specific to each implementation of the trait. In this example, the `MyTrait` trait has an associated type `MyType`, which is implemented as `i32` for `MyStruct`.
+Here You can read more about [[Traits]].
 
 ## Where Clauses
 
