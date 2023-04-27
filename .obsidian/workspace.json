@@ -243,10 +243,10 @@
   "active": "2487df53e7418337",
   "lastOpenFiles": [
     "Rust/Basics/Traits.md",
-    "Rust/Basics/Error Handling.md",
-    "Rust/Basics/Testing.md",
     "Rust/Basics/Collections/HashMap.md",
     "Rust/Basics/Variables.md",
+    "Rust/Basics/Error Handling.md",
+    "Rust/Basics/Testing.md",
     "Rust/Tools.md",
     "Rust/Basics/Collections/Vec.md",
     "Rust/Basics/Collections/String.md",

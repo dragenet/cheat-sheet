@@ -1,6 +1,4 @@
-Sure, here's a cheatsheet about error handling in Rust with code examples in Markdown format:
-
-# Rust Error Handling Cheatsheet
+[Docs](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
 
 Rust has a robust and expressive error handling system that makes it easy to write reliable and safe code. Rust's error handling is based on the `Result` enum, which represents either success (`Ok`) or failure (`Err`). Here are some examples of how to use Rust's error handling:
 
@@ -100,5 +98,19 @@ The `map` method applies a function to the value inside an `Ok` variant and retu
 ## The `unwrap_or` Method
 
 ```rust
-let result = do_something().unwrap_or(0)
+let result = do_something().unwrap_or(0);
 ```
+
+The `unwrap_or` method is a convenient way to handle errors when we don't care about the exact error message and want to use a default value instead. If the `Result` is `Ok`, the method returns the value inside. If the `Result` is `Err`, it returns the default value provided as argument.
+
+## The `panic!` Macro
+
+```rust
+fn main() {
+    if do_something().is_err() {
+        panic!("An error occurred");
+    }
+}
+```
+
+The `panic!` macro can be used to terminate the program with an error message if a condition is not met. In this example, if the `Result` of `do_something()` is `Err`, we panic with the message "An error occurred". This is a last-resort way to handle errors in Rust and should be used sparingly.
