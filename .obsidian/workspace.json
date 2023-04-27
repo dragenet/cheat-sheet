@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Error Handling.md",
+                "file": "Rust/Basics/Errors/Error Handling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca49039b80512304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basics/Errors/Custom Errors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Error Handling.md",
+                "file": "Rust/Basics/Errors/Custom Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Error Handling.md",
+                "file": "Rust/Basics/Errors/Custom Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Error Handling.md"
+                "file": "Rust/Basics/Errors/Custom Errors.md"
               }
             }
           },
@@ -240,12 +252,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2487df53e7418337",
+  "active": "ca49039b80512304",
   "lastOpenFiles": [
+    "Rust/Basics/Errors/Error Handling.md",
+    "Rust/Basics/Errors/Custom Errors.md",
+    "Rust/Basics/Errors",
     "Rust/Basics/Traits.md",
     "Rust/Basics/Collections/HashMap.md",
     "Rust/Basics/Variables.md",
-    "Rust/Basics/Error Handling.md",
     "Rust/Basics/Testing.md",
     "Rust/Tools.md",
     "Rust/Basics/Collections/Vec.md",
