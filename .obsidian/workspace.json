@@ -11,8 +11,12 @@
             "id": "39248d7dd0c058bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basics/Iterators.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rust/Basics/Iterators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rust/Basics/Iterators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rust/Basics/Iterators.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
   },
   "active": "39248d7dd0c058bc",
   "lastOpenFiles": [
+    "Rust/Basics/Iterators.md",
     "Rust/Basics/Closures.md",
     "Rust/Basics/Generics.md",
     "Rust/Basics/Lifetimes.md",
@@ -177,7 +186,6 @@
     "Rust/Basics/Enums and patterns/`match` control flow construct.md",
     "Rust/Basics/Enums and patterns/`if let` control flow.md",
     "Rust/Basics/Enums and patterns",
-    "Rust/Basics/Structs.md",
     "Rust/Untitled.canvas",
     "Rust/Basics",
     "Rust"
