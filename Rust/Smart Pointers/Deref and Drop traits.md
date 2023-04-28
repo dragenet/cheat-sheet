@@ -1,6 +1,6 @@
 # Deref Trait
 
-[Docs](https://doc.rust-lang.org/book/ch15-02-deref.html)
+[Rust Book](https://doc.rust-lang.org/book/ch15-02-deref.html)
 
 The `Deref` trait is used to enable the *deref coercion* feature in Rust, which allows a smart pointer to behave like a regular reference by dereferencing it automatically. Here are some examples:
 
@@ -26,7 +26,7 @@ In this example, `MyInt` is a newtype struct that wraps an `i32`. By implementin
 
 # Drop Trait
 
-[Docs](https://doc.rust-lang.org/book/ch15-03-drop.html)
+[Rust Book](https://doc.rust-lang.org/book/ch15-03-drop.html)
 
 The `Drop` trait is used to define the behavior of an object when it goes out of scope. This is often used for resource management, such as closing a file or releasing a lock. Here is an example:
 

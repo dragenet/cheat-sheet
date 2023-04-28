@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
+[Rust Book](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
 
 Rust has a robust and expressive error handling system that makes it easy to write reliable and safe code. Rust's error handling is based on the `Result` enum, which represents either success (`Ok`) or failure (`Err`). Here are some examples of how to use Rust's error handling:
 

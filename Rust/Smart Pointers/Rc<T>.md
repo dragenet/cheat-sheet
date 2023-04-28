@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch15-05-interior-mutability.html)
+[Rust Book](https://doc.rust-lang.org/book/ch15-05-interior-mutability.html)
 
 The `Rc` smart pointer (short for *reference counting*) is used to share ownership of a value between multiple parts of a Rust program.
 

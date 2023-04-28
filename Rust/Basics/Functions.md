@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions)
+[Rust Book](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions)
 
 ```rust
 fn five(x: usize) -> i32 { 

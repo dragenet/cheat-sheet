@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch15-01-box.html)
+[Rust Book](https://doc.rust-lang.org/book/ch15-01-box.html)
 
 A smart pointer is a type of pointer that is designed to help prevent common programming errors. In Rust, there are several types of smart pointers, and one of the most commonly used is the `Box` smart pointer. 
 

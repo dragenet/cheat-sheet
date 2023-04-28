@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch08-01-vectors.html)
+[Rust Book](https://doc.rust-lang.org/book/ch08-01-vectors.html)
 
 Rust's `Vec` type is a dynamically resizable array that is owned by the program.
 

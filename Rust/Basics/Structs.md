@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch05-00-structs.html#using-structs-to-structure-related-data)
+[Rust Book](https://doc.rust-lang.org/book/ch05-00-structs.html#using-structs-to-structure-related-data)
 
 ```rust
 struct Rectangle {

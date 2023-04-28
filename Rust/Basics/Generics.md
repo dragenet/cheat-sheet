@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch10-01-syntax.html)
+[Rust Book](https://doc.rust-lang.org/book/ch10-01-syntax.html)
 
 Generics in Rust allow you to write code that can be used with multiple types. They are similar to templates in C++ and Java. Here are some examples of how to use generics in Rust:
 

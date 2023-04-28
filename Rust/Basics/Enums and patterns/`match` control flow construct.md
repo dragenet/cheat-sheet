@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch06-02-match.html#the-match-control-flow-construct)
+[Rust Book](https://doc.rust-lang.org/book/ch06-02-match.html#the-match-control-flow-construct)
 
 > [!warning] `match` is exhaustive
 > There's required to cover all possible patterns.

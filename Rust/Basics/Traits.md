@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch10-02-traits.html)
+[Rust Book](https://doc.rust-lang.org/book/ch10-02-traits.html)
 
 Traits in Rust are similar to interfaces in other programming languages. They allow you to define a set of methods that a type must implement.
 

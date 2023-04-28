@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html#managing-growing-projects-with-packages-crates-and-modules)
+[Rust Book](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html#managing-growing-projects-with-packages-crates-and-modules)
 
 ## Packages and Crates
 A **Package** is a Cargo feature that lets you build, test, and share crates. Packages contain a `Cargo.toml` file that describes how to build those crates. A **Crate** is a tree of modules that produces a library or binary.

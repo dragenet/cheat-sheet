@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch15-04-rc.html)
+[Rust Book](https://doc.rust-lang.org/book/ch15-04-rc.html)
 
 Rust provides a number of powerful and flexible iterator types that allow you to perform operations on collections in a concise and expressive manner. Here are some of the most commonly used iterator methods and techniques, along with code examples:
 

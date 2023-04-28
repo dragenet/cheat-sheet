@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch16-00-concurrency.html)
+[Rust Book](https://doc.rust-lang.org/book/ch16-00-concurrency.html)
 
 Rust provides support for creating threads through the `std::thread` module. Threads allow for parallel execution of code, and Rust's type system ensures that threads are both safe and efficient.
 

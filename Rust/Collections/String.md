@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch08-02-strings.html)
+[Rust Book](https://doc.rust-lang.org/book/ch08-02-strings.html)
 
 Rust's `String` collection is a dynamically resizable, UTF-8 encoded string that is owned by the program.
 

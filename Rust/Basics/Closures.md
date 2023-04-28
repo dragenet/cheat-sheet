@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch13-01-closures.html)
+[Rust Book](https://doc.rust-lang.org/book/ch13-01-closures.html)
 
 Closures are a type of anonymous function that can capture values from their surrounding environment. In Rust, closures are implemented using traits, which define the behavior of the closure. Here are some examples of how to use closures in Rust:
 

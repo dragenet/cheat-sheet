@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch15-06-reference-cycles.html)
+[Rust Book](https://doc.rust-lang.org/book/ch15-06-reference-cycles.html)
 
 The `Weak<T>` smart pointer is used for creating weak references to `Rc<T>` instances in Rust. A weak reference is a reference that does not contribute to the reference count of an `Rc<T>` instance. This means that the `Rc<T>` instance can be dropped even if weak references to it still exist.
 

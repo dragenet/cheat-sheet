@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
+[Rust Book](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
 
 Lifetimes in Rust are used to ensure that references are valid for as long as they are used. They are an important feature of Rust's ownership system.
 

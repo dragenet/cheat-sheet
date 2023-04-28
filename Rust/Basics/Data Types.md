@@ -6,7 +6,7 @@ let variable: u32 = 10;
 
 # Scalar Types
 
-[Docs](https://doc.rust-lang.org/book/ch03-02-data-types.html#scalar-types)
+[Rust Book](https://doc.rust-lang.org/book/ch03-02-data-types.html#scalar-types)
 
 - integers
 - floating-point 

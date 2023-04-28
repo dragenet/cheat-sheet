@@ -9,7 +9,7 @@ tmp = 7;
 ```
 
 ## Constants
-[Docs](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#constants)
+[Rust Book](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#constants)
 
 ```rust
 const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;

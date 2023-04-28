@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch08-03-hash-maps.html)
+[Rust Book](https://doc.rust-lang.org/book/ch08-03-hash-maps.html)
 
 Rust's `HashMap` type is a collection of key-value pairs that is owned by the program.
 

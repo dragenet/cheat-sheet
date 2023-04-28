@@ -1,4 +1,4 @@
-[Docs](https://doc.rust-lang.org/book/ch11-00-testing.html)
+[Rust Book](https://doc.rust-lang.org/book/ch11-00-testing.html)
 
 Rust's built-in testing framework allows you to write automated tests for your code. Tests are written in the same Rust file as the code being tested and are run using the `cargo test` command.
 
