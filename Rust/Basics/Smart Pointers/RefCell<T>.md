@@ -2,6 +2,9 @@
 
 Rust `RefCell` is a smart pointer that enables you to have multiple, mutable references to a value while enforcing Rust's borrowing rules at runtime. It is commonly used to provide interior mutability in a struct.
 
+> [!warning]
+> Single-thread only
+
 ## Creating a `RefCell`
 
 ```rust

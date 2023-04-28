@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Weak<T>.md",
+                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Weak<T>.md",
+                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Weak<T>.md",
+                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Weak<T>.md"
+                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "6a209fd6da9fd20f",
   "lastOpenFiles": [
+    "Rust/Basics/Smart Pointers/Rc<T>.md",
     "Rust/Basics/Smart Pointers/RefCell<T>.md",
     "Rust/Basics/Smart Pointers/Weak<T>.md",
-    "Rust/Basics/Smart Pointers/Rc<T>.md",
     "Rust/Basics/Smart Pointers/Box<T>.md",
     "Rust/Basics/Smart Pointers/Deref and Drop traits.md",
     "Rust/Traits/Deref.md",
