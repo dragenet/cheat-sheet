@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3ba8cdc6d1c54c07",
+            "id": "d32be3e86af39af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Traits/Deref.md",
+                "file": "Rust/Basics/Smart Pointers/Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Traits/Deref.md",
+                "file": "Rust/Basics/Smart Pointers/Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Traits/Deref.md",
+                "file": "Rust/Basics/Smart Pointers/Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Traits/Deref.md"
+                "file": "Rust/Basics/Smart Pointers/Box.md"
               }
             }
           },
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba8cdc6d1c54c07",
+  "active": "d32be3e86af39af4",
   "lastOpenFiles": [
+    "Rust/Basics/Smart Pointers/Deref and Drop traits.md",
     "Rust/Basics/Smart Pointers/Box.md",
     "Rust/Traits/Deref.md",
     "Rust/Traits",
@@ -199,7 +200,6 @@
     "Rust/Basics/Ownership and Borrowing.md",
     "Rust/Basics/Functions.md",
     "Rust/Basics/Loops.md",
-    "Test.md",
     "Rust/Basics/Enums and patterns",
     "Rust/Untitled.canvas",
     "Rust/Basics",
