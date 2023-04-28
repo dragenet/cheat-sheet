@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdab76a7a373578c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basics/Smart Pointers/ReffCell<T>.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Rc<T>.md",
+                "file": "Rust/Basics/Smart Pointers/ReffCell<T>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Rc<T>.md",
+                "file": "Rust/Basics/Smart Pointers/ReffCell<T>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Rc<T>.md"
+                "file": "Rust/Basics/Smart Pointers/ReffCell<T>.md"
               }
             }
           },
@@ -180,10 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c80092897259179",
+  "active": "fdab76a7a373578c",
   "lastOpenFiles": [
-    "Rust/Basics/Smart Pointers/Box<T>.md",
     "Rust/Basics/Smart Pointers/Rc<T>.md",
+    "Rust/Basics/Smart Pointers/ReffCell<T>.md",
+    "Rust/Basics/Smart Pointers/Box<T>.md",
     "Rust/Basics/Smart Pointers/Deref and Drop traits.md",
     "Rust/Traits/Deref.md",
     "Rust/Traits",
@@ -211,7 +224,6 @@
     "Untitled 1.md",
     "Rust/Basics/Packages and Crates.md",
     "Rust/Basics/Ownership and Borrowing.md",
-    "Rust/Basics/Functions.md",
     "Rust/Basics/Enums and patterns",
     "Rust/Untitled.canvas",
     "Rust/Basics",

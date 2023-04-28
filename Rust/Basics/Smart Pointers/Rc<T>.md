@@ -1,6 +1,9 @@
 [Docs](https://doc.rust-lang.org/book/ch15-05-interior-mutability.html)
 
-The `Rc` smart pointer (short for *reference counting*) is used to share ownership of a value between multiple parts of a Rust program. Here are some examples of how to use `Rc`:
+The `Rc` smart pointer (short for *reference counting*) is used to share ownership of a value between multiple parts of a Rust program.
+
+> [!warning]
+> Single-thread only
 
 ## Creating an `Rc` Pointer
 
