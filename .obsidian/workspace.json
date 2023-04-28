@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Box<T>.md",
+                "file": "Rust/Smart Pointers/Box<T>.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Box<T>.md",
+                "file": "Rust/Smart Pointers/Box<T>.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/Rc<T>.md",
+                "file": "Rust/Smart Pointers/Rc<T>.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
+                "file": "Rust/Smart Pointers/RefCell<T>.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
+                "file": "Rust/Smart Pointers/Box<T>.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
+                "file": "Rust/Smart Pointers/Box<T>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md",
+                "file": "Rust/Smart Pointers/Box<T>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Basics/Smart Pointers/RefCell<T>.md"
+                "file": "Rust/Smart Pointers/Box<T>.md"
               }
             }
           },
@@ -187,12 +187,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,25 +203,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a209fd6da9fd20f",
+  "active": "9fb7f29e579c691b",
   "lastOpenFiles": [
-    "Rust/Basics/Smart Pointers/Rc<T>.md",
-    "Rust/Basics/Smart Pointers/RefCell<T>.md",
-    "Rust/Basics/Smart Pointers/Weak<T>.md",
-    "Rust/Basics/Smart Pointers/Box<T>.md",
-    "Rust/Basics/Smart Pointers/Deref and Drop traits.md",
+    "Rust/Untitled.md",
+    "Rust/Concurrency",
+    "Rust/Smart Pointers/Box<T>.md",
+    "Rust/Smart Pointers/Rc<T>.md",
+    "Rust/Smart Pointers/RefCell<T>.md",
+    "Rust/Smart Pointers/Weak<T>.md",
+    "Rust/Smart Pointers/Deref and Drop traits.md",
     "Rust/Traits/Deref.md",
     "Rust/Traits",
     "Rust/Basics/Iterators.md",
     "().md",
-    "Rust/Basics/Smart Pointers",
+    "Rust/Smart Pointers",
     "Untitled.md",
     "Rust/Basics/Closures.md",
     "Rust/Basics/Generics.md",
     "Rust/Basics/Lifetimes.md",
-    "Rust/Basics/Collections/String.md",
+    "Rust/Collections/String.md",
     "Rust/Basics/Variables.md",
-    "Rust/Basics/Collections/HashMap.md",
+    "Rust/Collections/HashMap.md",
     "Rust/Basics/Traits.md",
     "Rust/Basics/`format!` placeholders.md",
     "Rust/Basics/Errors/Error Handling.md",
@@ -232,10 +233,8 @@
     "Rust/Basics/Errors",
     "Rust/Basics/Testing.md",
     "Rust/Tools.md",
-    "Rust/Basics/Collections/Vec.md",
-    "Rust/Basics/Collections",
-    "Untitled 1.md",
-    "Rust/Basics/Packages and Crates.md",
+    "Rust/Collections/Vec.md",
+    "Rust/Collections",
     "Rust/Basics/Enums and patterns",
     "Rust/Untitled.canvas",
     "Rust/Basics",
