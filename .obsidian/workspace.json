@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc89f6a06fa13db",
+        "id": "719cb9835cc4c501",
         "type": "tabs",
         "children": [
           {
-            "id": "fde373e95d58f6f1",
+            "id": "b95f11019cfa70a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Concurrency/Threads.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Concurrency/Threads.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Concurrency/Threads.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Concurrency/Threads.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -154,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde373e95d58f6f1",
+  "active": "b95f11019cfa70a5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Rust/Concurrency/Threads.md",
     "Rust/Smart Pointers/Box<T>.md",
     "Rust/Smart Pointers/Weak<T>.md",
     "Rust/Basics/Variables.md",
     "Rust/Tools.md",
     "Rust/Collections/Vec.md",
     "Rust/Basics/Traits.md",
-    "Rust/Concurrency/Threads.md",
     "Rust/Basics/Testing.md",
     "Rust/Basics/Structs.md",
     "Rust/Collections/String.md",
@@ -181,7 +182,6 @@
     "Rust/Smart Pointers/Deref and Drop traits.md",
     "Rust/Basics/Data Types.md",
     "Rust/Basics/Conditionals.md",
-    "Rust/Basics/Closures.md",
     "Rust/Concurrency",
     "Rust/Traits",
     "Rust/Smart Pointers",
