@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bfc4597ccf9130b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3accec3198f18d04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -154,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b95f11019cfa70a5",
+  "active": "5bfc4597ccf9130b",
   "lastOpenFiles": [
     "Untitled.md",
     "Rust/Concurrency/Threads.md",
